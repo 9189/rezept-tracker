@@ -1,0 +1,20 @@
+rezepte
+    X get single by id
+    X get all
+    X put by id
+    X post :
+        falls zutat noch nicht vorhanden neu erstellen
+        X delete by id
+
+bewertung
+    X get all bewertungen by rezeptId
+    X put by id
+    X post by rezeptId
+    X delete by id
+
+zutat
+    X get all
+
+exceptions
+    X zutat
+    X bewertung
